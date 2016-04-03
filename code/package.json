@@ -1,0 +1,6 @@
+{
+  "require" : {
+    "johnny-five" : "*",
+    "sleep" : "*"
+  }
+}
